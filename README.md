@@ -1,0 +1,2 @@
+# Bytech_Code
+Bytech Technology Solves The Complexity Problem Of Investment Management, And Aims To Become The World’s Largest Investment Funds Marketplace By Democratizing The $85 Trillion Global Funds Industry. For The First Time In History, Investors, Now Powered By Bytech Technology’s Blockchain Platform, Can Have Their Investments Managed With Complete Transparency, Control Of Assets, And Proof Of A Fund’s Past Returns-On-Investments (ROI).
